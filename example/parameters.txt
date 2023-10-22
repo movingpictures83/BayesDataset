@@ -1,0 +1,5 @@
+score2	Res_Score_Two.rds
+score12	Res_Score_One_Two.rds
+counts	ARO_Counts.rds
+reads	bracken_combined_reads.tsv
+infection	Infection_Data_For_Bayesian_Model.csv

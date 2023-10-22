@@ -1,0 +1,2 @@
+Prefix plugins/BayesDataset/example/
+Plugin BayesDataset inputfile parameters.txt outputfile Dataset_For_Bayesian_Model.csv
